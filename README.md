@@ -1,4 +1,4 @@
-# Mcreekmore Mcreekmore
+#  mcreekmore's tap
 
 ## How do I install these formulae?
 
